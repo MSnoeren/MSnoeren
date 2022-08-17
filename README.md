@@ -1,8 +1,8 @@
 ### Hi there! 👋
+I'm Michael! A perfectionist PHP programmer currently working full-time at **R2H**. In my spare time I build tools and platforms for my own company **Snoeren Development**.
 
-I'm Michael!
+- 👀 I’m interested in optimizing applications, Laravel, PWA's in Vue and hosting on AWS.
+- 🌱 I’m currently building fast offline-capable PWA's!
 
-- 👀 I’m interested in optimizing applications, Laravel, PWA's in Vue.
-- 🌱 I’m currently learning PWA's with Nuxt, see https://clipboard.guru to see my results!
-
-![Metrics](https://metrics.lecoq.io/MSnoeren?template=classic&music=1&music.provider=lastfm&music.mode=recent&music.limit=3&music.played.at=false&music.user=Godslayer500&config.timezone=Europe%2FAmsterdam)
+![](https://raw.githubusercontent.com/MSnoeren/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MSnoeren/github-stats/master/generated/languages.svg#gh-dark-mode-only)
